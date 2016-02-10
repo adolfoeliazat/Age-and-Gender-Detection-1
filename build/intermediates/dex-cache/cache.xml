@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/onzzz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/onzzz/PictureDetect/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-6547850ddc1edc09127511a961b1451b99f2116b.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/PictureDetect/app/libs/faceppsdk_min.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3e26e757ce1873e4be56d3b49130e6ae607b5fdb">
+        <dex dex="/Users/onzzz/PictureDetect/app/build/intermediates/pre-dexed/debug/faceppsdk_min-608110b177ea980f3b403f1e2fe627ea1c60cd4f.jar" />
+    </item>
+
+</items>
